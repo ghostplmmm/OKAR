@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Laget av %1$s</string>
+    <string name="checking_root">Sjekker root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Apper: %1$d</string>
+    <string name="no_root">Ingen root</string>
+    <string name="ram_free">Ledig RAM: %1$d%%</string>
+    <string name="loading">Laster...</string>
+    <string name="btn_kill">Lukk valgte</string>
+    <string name="btn_select_all">Velg alle</string>
+    <string name="btn_refresh">Oppdater liste</string>
+    <string name="btn_restore">Gjenopprett bakgrunn (valgte)</string>
+    <string name="btn_white_add">Legg til i hvitelisten</string>
+    <string name="btn_white_remove">Fjern fra hvitelisten</string>
+    <string name="toggle_system">Systemapper: %1$s</string>
+    <string name="toggle_running">Bare kjørende: %1$s</string>
+    <string name="toggle_aggr">Aggressiv modus: %1$s</string>
+    <string name="toggle_white">Vis hviteliste: %1$s (%2$d)</string>
+    <string name="yes">JA</string>
+    <string name="no">NEI</string>
+    <string name="toast_root_denied">Root ble ikke gitt. Tillat det i Magisk.</string>
+    <string name="toast_none_selected">Ingen apper valgt</string>
+    <string name="toast_leave_white">Forlat hvitelisten for å lukke apper</string>
+    <string name="toast_white_removed">Fjernet fra hvitelisten: %1$d</string>
+    <string name="toast_white_added">Lagt til i hvitelisten: %1$d</string>
+    <string name="toast_bg_restored">Bakgrunn gjenopprettet: %1$d</string>
+    <string name="toast_no_root_kill">Ingen root: kan ikke lukke</string>
+    <string name="res_closed">Lukket: %1$d</string>
+    <string name="res_closed_restarted">Lukket: %1$d | Startet på nytt av systemet: %2$d</string>
+    <string name="res_ram">RAM frigjort: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM frigjort: ~%1$d%%</string>
+    <string name="res_recents">Nylige: %1$d fjernet</string>
+    <string name="res_recents_fail">Nylige: %1$d fjernet | %2$d kunne ikke fjernes</string>
+    <string name="res_alive">Kjører fortsatt: %1$s</string>
+</resources>

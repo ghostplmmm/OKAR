@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Készítette: %1$s</string>
+    <string name="checking_root">Root ellenőrzése...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Alkalmazások: %1$d</string>
+    <string name="no_root">Nincs root</string>
+    <string name="ram_free">Szabad RAM: %1$d%%</string>
+    <string name="loading">Betöltés...</string>
+    <string name="btn_kill">Kijelöltek bezárása</string>
+    <string name="btn_select_all">Összes kijelölése</string>
+    <string name="btn_refresh">Lista frissítése</string>
+    <string name="btn_restore">Háttér visszaállítása (kij.)</string>
+    <string name="btn_white_add">Hozzáadás a fehérlistához</string>
+    <string name="btn_white_remove">Eltávolítás a fehérlistáról</string>
+    <string name="toggle_system">Rendszeralkalmazások: %1$s</string>
+    <string name="toggle_running">Csak futók: %1$s</string>
+    <string name="toggle_aggr">Agresszív mód: %1$s</string>
+    <string name="toggle_white">Fehérlista megtekintése: %1$s (%2$d)</string>
+    <string name="yes">IGEN</string>
+    <string name="no">NEM</string>
+    <string name="toast_root_denied">A root nem lett megadva. Engedélyezd a Magiskben.</string>
+    <string name="toast_none_selected">Nincs kijelölt alkalmazás</string>
+    <string name="toast_leave_white">Lépj ki a fehérlistából a bezáráshoz</string>
+    <string name="toast_white_removed">Eltávolítva a fehérlistáról: %1$d</string>
+    <string name="toast_white_added">Hozzáadva a fehérlistához: %1$d</string>
+    <string name="toast_bg_restored">Háttér visszaállítva: %1$d</string>
+    <string name="toast_no_root_kill">Nincs root: nem zárható be</string>
+    <string name="res_closed">Bezárva: %1$d</string>
+    <string name="res_closed_restarted">Bezárva: %1$d | A rendszer újraindította: %2$d</string>
+    <string name="res_ram">Felszabadított RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">Felszabadított RAM: ~%1$d%%</string>
+    <string name="res_recents">Legutóbbiak: %1$d eltávolítva</string>
+    <string name="res_recents_fail">Legutóbbiak: %1$d eltávolítva | %2$d nem távolítható el</string>
+    <string name="res_alive">Még fut: %1$s</string>
+</resources>

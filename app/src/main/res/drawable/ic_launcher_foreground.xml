@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- anillo cian (radar) -->
+    <path
+        android:pathData="M86,54 A32,32 0 1 1 22,54 A32,32 0 1 1 86,54"
+        android:strokeColor="#26C6DA"
+        android:strokeWidth="1.8"
+        android:strokeAlpha="0.85" />
+    <!-- símbolo de apagado (cerrar apps) -->
+    <path
+        android:pathData="M69.43,35.62 A24,24 0 1 1 38.57,35.62"
+        android:strokeColor="#FF5252"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round" />
+    <path
+        android:pathData="M54,27 L54,52"
+        android:strokeColor="#FF5252"
+        android:strokeWidth="5.5"
+        android:strokeLineCap="round" />
+    <!-- mini chip de RAM -->
+    <path
+        android:pathData="M45,62 L63,62 L63,70 L45,70 Z"
+        android:fillColor="#26C6DA"
+        android:fillAlpha="0.9" />
+</vector>

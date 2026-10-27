@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Δημιουργός: %1$s</string>
+    <string name="checking_root">Έλεγχος root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Εφαρμογές: %1$d</string>
+    <string name="no_root">Χωρίς root</string>
+    <string name="ram_free">Ελεύθερη RAM: %1$d%%</string>
+    <string name="loading">Φόρτωση...</string>
+    <string name="btn_kill">Κλείσιμο επιλεγμένων</string>
+    <string name="btn_select_all">Επιλογή όλων</string>
+    <string name="btn_refresh">Ανανέωση λίστας</string>
+    <string name="btn_restore">Επαναφορά παρασκηνίου (επιλ.)</string>
+    <string name="btn_white_add">Προσθήκη στη λίστα εξαιρέσεων</string>
+    <string name="btn_white_remove">Αφαίρεση από τη λίστα εξαιρέσεων</string>
+    <string name="toggle_system">Εφαρμογές συστήματος: %1$s</string>
+    <string name="toggle_running">Μόνο όσες τρέχουν: %1$s</string>
+    <string name="toggle_aggr">Επιθετική λειτουργία: %1$s</string>
+    <string name="toggle_white">Προβολή λίστας εξαιρέσεων: %1$s (%2$d)</string>
+    <string name="yes">ΝΑΙ</string>
+    <string name="no">ΟΧΙ</string>
+    <string name="toast_root_denied">Δεν δόθηκε root. Επιτρέψτε το στο Magisk.</string>
+    <string name="toast_none_selected">Δεν επιλέχθηκαν εφαρμογές</string>
+    <string name="toast_leave_white">Βγείτε από τη λίστα εξαιρέσεων για κλείσιμο</string>
+    <string name="toast_white_removed">Αφαιρέθηκαν από τη λίστα εξαιρέσεων: %1$d</string>
+    <string name="toast_white_added">Προστέθηκαν στη λίστα εξαιρέσεων: %1$d</string>
+    <string name="toast_bg_restored">Επαναφορά παρασκηνίου: %1$d</string>
+    <string name="toast_no_root_kill">Χωρίς root: αδυναμία κλεισίματος</string>
+    <string name="res_closed">Έκλεισαν: %1$d</string>
+    <string name="res_closed_restarted">Έκλεισαν: %1$d | Επανεκκίνηση από το σύστημα: %2$d</string>
+    <string name="res_ram">Ελευθερώθηκε RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">Ελευθερώθηκε RAM: ~%1$d%%</string>
+    <string name="res_recents">Πρόσφατα: αφαιρέθηκαν %1$d</string>
+    <string name="res_recents_fail">Πρόσφατα: αφαιρέθηκαν %1$d | %2$d δεν αφαιρέθηκαν</string>
+    <string name="res_alive">Εξακολουθούν να τρέχουν: %1$s</string>
+</resources>

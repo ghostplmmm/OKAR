@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Autor: %1$s</string>
+    <string name="checking_root">Kontrola rootu...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Aplikace: %1$d</string>
+    <string name="no_root">Bez rootu</string>
+    <string name="ram_free">Volná RAM: %1$d%%</string>
+    <string name="loading">Načítání...</string>
+    <string name="btn_kill">Zavřít vybrané</string>
+    <string name="btn_select_all">Vybrat vše</string>
+    <string name="btn_refresh">Obnovit seznam</string>
+    <string name="btn_restore">Obnovit pozadí (vyb.)</string>
+    <string name="btn_white_add">Přidat na bílou listinu</string>
+    <string name="btn_white_remove">Odebrat z bílé listiny</string>
+    <string name="toggle_system">Systémové aplikace: %1$s</string>
+    <string name="toggle_running">Jen spuštěné: %1$s</string>
+    <string name="toggle_aggr">Agresivní režim: %1$s</string>
+    <string name="toggle_white">Zobrazit bílou listinu: %1$s (%2$d)</string>
+    <string name="yes">ANO</string>
+    <string name="no">NE</string>
+    <string name="toast_root_denied">Root nebyl udělen. Povolte jej v Magisk.</string>
+    <string name="toast_none_selected">Nejsou vybrány žádné aplikace</string>
+    <string name="toast_leave_white">Opusťte bílou listinu pro zavření aplikací</string>
+    <string name="toast_white_removed">Odebráno z bílé listiny: %1$d</string>
+    <string name="toast_white_added">Přidáno na bílou listinu: %1$d</string>
+    <string name="toast_bg_restored">Pozadí obnoveno: %1$d</string>
+    <string name="toast_no_root_kill">Bez rootu: nelze zavřít</string>
+    <string name="res_closed">Zavřeno: %1$d</string>
+    <string name="res_closed_restarted">Zavřeno: %1$d | Restartováno systémem: %2$d</string>
+    <string name="res_ram">Uvolněná RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">Uvolněná RAM: ~%1$d%%</string>
+    <string name="res_recents">Nedávné: odebráno %1$d</string>
+    <string name="res_recents_fail">Nedávné: odebráno %1$d | nelze odebrat %2$d</string>
+    <string name="res_alive">Stále běží: %1$s</string>
+</resources>

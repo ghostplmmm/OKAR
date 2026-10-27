@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">निर्माता: %1$s</string>
+    <string name="checking_root">रूट जाँचा जा रहा है...</string>
+    <string name="root_ok">रूट: ठीक</string>
+    <string name="status_root_apps">रूट: ठीक | ऐप्स: %1$d</string>
+    <string name="no_root">रूट नहीं</string>
+    <string name="ram_free">खाली RAM: %1$d%%</string>
+    <string name="loading">लोड हो रहा है...</string>
+    <string name="btn_kill">चुने हुए बंद करें</string>
+    <string name="btn_select_all">सभी चुनें</string>
+    <string name="btn_refresh">सूची रीफ़्रेश करें</string>
+    <string name="btn_restore">बैकग्राउंड बहाल करें (चुने)</string>
+    <string name="btn_white_add">श्वेतसूची में जोड़ें</string>
+    <string name="btn_white_remove">श्वेतसूची से हटाएँ</string>
+    <string name="toggle_system">सिस्टम ऐप्स: %1$s</string>
+    <string name="toggle_running">केवल चल रहे: %1$s</string>
+    <string name="toggle_aggr">आक्रामक मोड: %1$s</string>
+    <string name="toggle_white">श्वेतसूची देखें: %1$s (%2$d)</string>
+    <string name="yes">हाँ</string>
+    <string name="no">नहीं</string>
+    <string name="toast_root_denied">रूट नहीं मिला। Magisk में अनुमति दें।</string>
+    <string name="toast_none_selected">कोई ऐप नहीं चुना गया</string>
+    <string name="toast_leave_white">ऐप बंद करने के लिए श्वेतसूची से बाहर आएँ</string>
+    <string name="toast_white_removed">श्वेतसूची से हटाए गए: %1$d</string>
+    <string name="toast_white_added">श्वेतसूची में जोड़े गए: %1$d</string>
+    <string name="toast_bg_restored">बैकग्राउंड बहाल: %1$d</string>
+    <string name="toast_no_root_kill">रूट नहीं: बंद नहीं कर सकते</string>
+    <string name="res_closed">बंद किए गए: %1$d</string>
+    <string name="res_closed_restarted">बंद किए गए: %1$d | सिस्टम ने फिर शुरू किए: %2$d</string>
+    <string name="res_ram">खाली की गई RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">खाली की गई RAM: ~%1$d%%</string>
+    <string name="res_recents">हाल के: %1$d हटाए गए</string>
+    <string name="res_recents_fail">हाल के: %1$d हटाए गए | %2$d नहीं हटाए जा सके</string>
+    <string name="res_alive">अभी भी चल रहे: %1$s</string>
+</resources>

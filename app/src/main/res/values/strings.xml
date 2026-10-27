@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name" translatable="false">Open KillApps Root</string>
+    <string name="author" translatable="false">Luis666andr</string>
+    <string name="created_by">Created by %1$s</string>
+    <string name="checking_root">Checking root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Apps: %1$d</string>
+    <string name="no_root">No root</string>
+    <string name="ram_free">Free RAM: %1$d%%</string>
+    <string name="loading">Loading...</string>
+    <string name="btn_kill">Close selected</string>
+    <string name="btn_select_all">Select all</string>
+    <string name="btn_refresh">Refresh list</string>
+    <string name="btn_restore">Restore background (sel.)</string>
+    <string name="btn_white_add">Add to whitelist</string>
+    <string name="btn_white_remove">Remove from whitelist</string>
+    <string name="toggle_system">System apps: %1$s</string>
+    <string name="toggle_running">Only running: %1$s</string>
+    <string name="toggle_aggr">Aggressive mode: %1$s</string>
+    <string name="toggle_white">Show whitelist: %1$s (%2$d)</string>
+    <string name="yes">YES</string>
+    <string name="no">NO</string>
+    <string name="toast_root_denied">Root access was not granted. Allow it in Magisk.</string>
+    <string name="toast_none_selected">No apps selected</string>
+    <string name="toast_leave_white">Leave the whitelist to close apps</string>
+    <string name="toast_white_removed">Removed from whitelist: %1$d</string>
+    <string name="toast_white_added">Added to whitelist: %1$d</string>
+    <string name="toast_bg_restored">Background restored: %1$d</string>
+    <string name="toast_no_root_kill">No root: cannot close apps</string>
+    <string name="res_closed">Closed: %1$d</string>
+    <string name="res_closed_restarted">Closed: %1$d | Restarted by system: %2$d</string>
+    <string name="res_ram">RAM freed: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM freed: ~%1$d%%</string>
+    <string name="res_recents">Recents: %1$d removed</string>
+    <string name="res_recents_fail">Recents: %1$d removed | %2$d could not be removed</string>
+    <string name="res_alive">Still running: %1$s</string>
+</resources>

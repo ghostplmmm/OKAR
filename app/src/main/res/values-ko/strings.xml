@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">제작: %1$s</string>
+    <string name="checking_root">루트 확인 중...</string>
+    <string name="root_ok">루트: 정상</string>
+    <string name="status_root_apps">루트: 정상 | 앱: %1$d</string>
+    <string name="no_root">루트 없음</string>
+    <string name="ram_free">남은 RAM: %1$d%%</string>
+    <string name="loading">불러오는 중...</string>
+    <string name="btn_kill">선택 항목 종료</string>
+    <string name="btn_select_all">모두 선택</string>
+    <string name="btn_refresh">목록 새로고침</string>
+    <string name="btn_restore">백그라운드 복원(선택)</string>
+    <string name="btn_white_add">화이트리스트에 추가</string>
+    <string name="btn_white_remove">화이트리스트에서 제거</string>
+    <string name="toggle_system">시스템 앱: %1$s</string>
+    <string name="toggle_running">실행 중인 앱만: %1$s</string>
+    <string name="toggle_aggr">강력 모드: %1$s</string>
+    <string name="toggle_white">화이트리스트 보기: %1$s (%2$d)</string>
+    <string name="yes">예</string>
+    <string name="no">아니요</string>
+    <string name="toast_root_denied">루트 권한을 받지 못했습니다. Magisk에서 허용하세요.</string>
+    <string name="toast_none_selected">선택한 앱이 없습니다</string>
+    <string name="toast_leave_white">앱을 종료하려면 화이트리스트에서 나가세요</string>
+    <string name="toast_white_removed">화이트리스트에서 제거됨: %1$d</string>
+    <string name="toast_white_added">화이트리스트에 추가됨: %1$d</string>
+    <string name="toast_bg_restored">백그라운드 복원됨: %1$d</string>
+    <string name="toast_no_root_kill">루트 없음: 종료할 수 없습니다</string>
+    <string name="res_closed">종료됨: %1$d</string>
+    <string name="res_closed_restarted">종료됨: %1$d | 시스템이 재시작: %2$d</string>
+    <string name="res_ram">확보한 RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">확보한 RAM: ~%1$d%%</string>
+    <string name="res_recents">최근 기록: %1$d개 제거</string>
+    <string name="res_recents_fail">최근 기록: %1$d개 제거 | %2$d개 제거 불가</string>
+    <string name="res_alive">아직 실행 중: %1$s</string>
+</resources>

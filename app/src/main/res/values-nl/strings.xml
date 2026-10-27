@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Gemaakt door %1$s</string>
+    <string name="checking_root">Root controleren...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Apps: %1$d</string>
+    <string name="no_root">Geen root</string>
+    <string name="ram_free">Vrij RAM: %1$d%%</string>
+    <string name="loading">Laden...</string>
+    <string name="btn_kill">Selectie sluiten</string>
+    <string name="btn_select_all">Alles selecteren</string>
+    <string name="btn_refresh">Lijst vernieuwen</string>
+    <string name="btn_restore">Achtergrond herstellen (sel.)</string>
+    <string name="btn_white_add">Aan whitelist toevoegen</string>
+    <string name="btn_white_remove">Van whitelist verwijderen</string>
+    <string name="toggle_system">Systeem-apps: %1$s</string>
+    <string name="toggle_running">Alleen actieve: %1$s</string>
+    <string name="toggle_aggr">Agressieve modus: %1$s</string>
+    <string name="toggle_white">Whitelist tonen: %1$s (%2$d)</string>
+    <string name="yes">JA</string>
+    <string name="no">NEE</string>
+    <string name="toast_root_denied">Root niet verleend. Sta het toe in Magisk.</string>
+    <string name="toast_none_selected">Geen apps geselecteerd</string>
+    <string name="toast_leave_white">Verlaat de whitelist om apps te sluiten</string>
+    <string name="toast_white_removed">Van whitelist verwijderd: %1$d</string>
+    <string name="toast_white_added">Aan whitelist toegevoegd: %1$d</string>
+    <string name="toast_bg_restored">Achtergrond hersteld: %1$d</string>
+    <string name="toast_no_root_kill">Geen root: sluiten niet mogelijk</string>
+    <string name="res_closed">Gesloten: %1$d</string>
+    <string name="res_closed_restarted">Gesloten: %1$d | Herstart door systeem: %2$d</string>
+    <string name="res_ram">RAM vrijgemaakt: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM vrijgemaakt: ~%1$d%%</string>
+    <string name="res_recents">Recent: %1$d verwijderd</string>
+    <string name="res_recents_fail">Recent: %1$d verwijderd | %2$d niet te verwijderen</string>
+    <string name="res_alive">Nog actief: %1$s</string>
+</resources>

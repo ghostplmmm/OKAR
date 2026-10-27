@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Dicipta oleh %1$s</string>
+    <string name="checking_root">Menyemak root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Apl: %1$d</string>
+    <string name="no_root">Tiada root</string>
+    <string name="ram_free">RAM bebas: %1$d%%</string>
+    <string name="loading">Memuatkan...</string>
+    <string name="btn_kill">Tutup yang dipilih</string>
+    <string name="btn_select_all">Pilih semua</string>
+    <string name="btn_refresh">Muat semula senarai</string>
+    <string name="btn_restore">Pulihkan latar belakang (dipilih)</string>
+    <string name="btn_white_add">Tambah ke senarai putih</string>
+    <string name="btn_white_remove">Buang daripada senarai putih</string>
+    <string name="toggle_system">Apl sistem: %1$s</string>
+    <string name="toggle_running">Hanya yang berjalan: %1$s</string>
+    <string name="toggle_aggr">Mod agresif: %1$s</string>
+    <string name="toggle_white">Lihat senarai putih: %1$s (%2$d)</string>
+    <string name="yes">YA</string>
+    <string name="no">TIDAK</string>
+    <string name="toast_root_denied">Root tidak diberikan. Benarkan dalam Magisk.</string>
+    <string name="toast_none_selected">Tiada apl dipilih</string>
+    <string name="toast_leave_white">Keluar daripada senarai putih untuk menutup apl</string>
+    <string name="toast_white_removed">Dibuang daripada senarai putih: %1$d</string>
+    <string name="toast_white_added">Ditambah ke senarai putih: %1$d</string>
+    <string name="toast_bg_restored">Latar belakang dipulihkan: %1$d</string>
+    <string name="toast_no_root_kill">Tiada root: tidak boleh ditutup</string>
+    <string name="res_closed">Ditutup: %1$d</string>
+    <string name="res_closed_restarted">Ditutup: %1$d | Dimulakan semula oleh sistem: %2$d</string>
+    <string name="res_ram">RAM dibebaskan: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM dibebaskan: ~%1$d%%</string>
+    <string name="res_recents">Terkini: %1$d dibuang</string>
+    <string name="res_recents_fail">Terkini: %1$d dibuang | %2$d tidak dapat dibuang</string>
+    <string name="res_alive">Masih berjalan: %1$s</string>
+</resources>

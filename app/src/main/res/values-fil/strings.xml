@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Ginawa ni %1$s</string>
+    <string name="checking_root">Sinusuri ang root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Mga app: %1$d</string>
+    <string name="no_root">Walang root</string>
+    <string name="ram_free">Libreng RAM: %1$d%%</string>
+    <string name="loading">Naglo-load...</string>
+    <string name="btn_kill">Isara ang napili</string>
+    <string name="btn_select_all">Piliin lahat</string>
+    <string name="btn_refresh">I-refresh ang listahan</string>
+    <string name="btn_restore">Ibalik ang background (napili)</string>
+    <string name="btn_white_add">Idagdag sa whitelist</string>
+    <string name="btn_white_remove">Alisin sa whitelist</string>
+    <string name="toggle_system">Mga system app: %1$s</string>
+    <string name="toggle_running">Tumatakbo lang: %1$s</string>
+    <string name="toggle_aggr">Agresibong mode: %1$s</string>
+    <string name="toggle_white">Tingnan ang whitelist: %1$s (%2$d)</string>
+    <string name="yes">OO</string>
+    <string name="no">HINDI</string>
+    <string name="toast_root_denied">Hindi nabigay ang root. Payagan sa Magisk.</string>
+    <string name="toast_none_selected">Walang napiling app</string>
+    <string name="toast_leave_white">Lumabas sa whitelist para magsara ng app</string>
+    <string name="toast_white_removed">Inalis sa whitelist: %1$d</string>
+    <string name="toast_white_added">Idinagdag sa whitelist: %1$d</string>
+    <string name="toast_bg_restored">Naibalik ang background: %1$d</string>
+    <string name="toast_no_root_kill">Walang root: hindi maisara</string>
+    <string name="res_closed">Naisara: %1$d</string>
+    <string name="res_closed_restarted">Naisara: %1$d | Nag-restart ng system: %2$d</string>
+    <string name="res_ram">Nabakanteng RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">Nabakanteng RAM: ~%1$d%%</string>
+    <string name="res_recents">Kamakailan: %1$d ang inalis</string>
+    <string name="res_recents_fail">Kamakailan: %1$d ang inalis | %2$d ang hindi maalis</string>
+    <string name="res_alive">Tumatakbo pa: %1$s</string>
+</resources>

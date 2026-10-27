@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Izradio %1$s</string>
+    <string name="checking_root">Provjera roota...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Aplikacije: %1$d</string>
+    <string name="no_root">Nema roota</string>
+    <string name="ram_free">Slobodni RAM: %1$d%%</string>
+    <string name="loading">Učitavanje...</string>
+    <string name="btn_kill">Zatvori odabrane</string>
+    <string name="btn_select_all">Odaberi sve</string>
+    <string name="btn_refresh">Osvježi popis</string>
+    <string name="btn_restore">Vrati pozadinu (odabrane)</string>
+    <string name="btn_white_add">Dodaj na bijeli popis</string>
+    <string name="btn_white_remove">Ukloni s bijelog popisa</string>
+    <string name="toggle_system">Sistemske aplikacije: %1$s</string>
+    <string name="toggle_running">Samo pokrenute: %1$s</string>
+    <string name="toggle_aggr">Agresivni način: %1$s</string>
+    <string name="toggle_white">Prikaži bijeli popis: %1$s (%2$d)</string>
+    <string name="yes">DA</string>
+    <string name="no">NE</string>
+    <string name="toast_root_denied">Root nije odobren. Dopusti ga u Magisku.</string>
+    <string name="toast_none_selected">Nema odabranih aplikacija</string>
+    <string name="toast_leave_white">Izađi s bijelog popisa za zatvaranje</string>
+    <string name="toast_white_removed">Uklonjeno s bijelog popisa: %1$d</string>
+    <string name="toast_white_added">Dodano na bijeli popis: %1$d</string>
+    <string name="toast_bg_restored">Pozadina vraćena: %1$d</string>
+    <string name="toast_no_root_kill">Nema roota: zatvaranje nije moguće</string>
+    <string name="res_closed">Zatvoreno: %1$d</string>
+    <string name="res_closed_restarted">Zatvoreno: %1$d | Ponovno pokrenuo sustav: %2$d</string>
+    <string name="res_ram">Oslobođeni RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">Oslobođeni RAM: ~%1$d%%</string>
+    <string name="res_recents">Nedavno: uklonjeno %1$d</string>
+    <string name="res_recents_fail">Nedavno: uklonjeno %1$d | nije moguće ukloniti %2$d</string>
+    <string name="res_alive">Još rade: %1$s</string>
+</resources>

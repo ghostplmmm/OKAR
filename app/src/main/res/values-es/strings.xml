@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Creado por %1$s</string>
+    <string name="checking_root">Comprobando root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Apps: %1$d</string>
+    <string name="no_root">Sin root</string>
+    <string name="ram_free">RAM libre: %1$d%%</string>
+    <string name="loading">Cargando...</string>
+    <string name="btn_kill">Cerrar seleccionadas</string>
+    <string name="btn_select_all">Seleccionar todo</string>
+    <string name="btn_refresh">Actualizar lista</string>
+    <string name="btn_restore">Restaurar 2º plano (selec.)</string>
+    <string name="btn_white_add">Añadir a lista blanca</string>
+    <string name="btn_white_remove">Quitar de lista blanca</string>
+    <string name="toggle_system">Apps del sistema: %1$s</string>
+    <string name="toggle_running">Solo en ejecución: %1$s</string>
+    <string name="toggle_aggr">Modo agresivo: %1$s</string>
+    <string name="toggle_white">Ver lista blanca: %1$s (%2$d)</string>
+    <string name="yes">SÍ</string>
+    <string name="no">NO</string>
+    <string name="toast_root_denied">No se obtuvo root. Concede permiso en Magisk.</string>
+    <string name="toast_none_selected">No hay apps seleccionadas</string>
+    <string name="toast_leave_white">Sal de la lista blanca para cerrar apps</string>
+    <string name="toast_white_removed">Quitadas de la lista blanca: %1$d</string>
+    <string name="toast_white_added">Añadidas a la lista blanca: %1$d</string>
+    <string name="toast_bg_restored">Segundo plano restaurado: %1$d</string>
+    <string name="toast_no_root_kill">Sin root: no se puede cerrar</string>
+    <string name="res_closed">Cerradas: %1$d</string>
+    <string name="res_closed_restarted">Cerradas: %1$d | Reiniciadas por el sistema: %2$d</string>
+    <string name="res_ram">RAM liberada: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM liberada: ~%1$d%%</string>
+    <string name="res_recents">Recientes: %1$d quitadas</string>
+    <string name="res_recents_fail">Recientes: %1$d quitadas | %2$d no se pudieron quitar</string>
+    <string name="res_alive">Siguen vivas: %1$s</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">作者：%1$s</string>
+    <string name="checking_root">正在检查 root...</string>
+    <string name="root_ok">Root：正常</string>
+    <string name="status_root_apps">Root：正常 | 应用：%1$d</string>
+    <string name="no_root">无 root</string>
+    <string name="ram_free">可用内存：%1$d%%</string>
+    <string name="loading">加载中...</string>
+    <string name="btn_kill">关闭所选</string>
+    <string name="btn_select_all">全选</string>
+    <string name="btn_refresh">刷新列表</string>
+    <string name="btn_restore">恢复后台（所选）</string>
+    <string name="btn_white_add">加入白名单</string>
+    <string name="btn_white_remove">移出白名单</string>
+    <string name="toggle_system">系统应用：%1$s</string>
+    <string name="toggle_running">仅运行中：%1$s</string>
+    <string name="toggle_aggr">激进模式：%1$s</string>
+    <string name="toggle_white">查看白名单：%1$s（%2$d）</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="toast_root_denied">未获得 root 权限，请在 Magisk 中允许。</string>
+    <string name="toast_none_selected">未选择应用</string>
+    <string name="toast_leave_white">请先退出白名单再关闭应用</string>
+    <string name="toast_white_removed">已移出白名单：%1$d</string>
+    <string name="toast_white_added">已加入白名单：%1$d</string>
+    <string name="toast_bg_restored">已恢复后台：%1$d</string>
+    <string name="toast_no_root_kill">无 root：无法关闭</string>
+    <string name="res_closed">已关闭：%1$d</string>
+    <string name="res_closed_restarted">已关闭：%1$d | 被系统重启：%2$d</string>
+    <string name="res_ram">释放内存：+%1$.1f%%（%2$d MB）</string>
+    <string name="res_ram_zero">释放内存：~%1$d%%</string>
+    <string name="res_recents">最近任务：已移除 %1$d</string>
+    <string name="res_recents_fail">最近任务：已移除 %1$d | %2$d 个无法移除</string>
+    <string name="res_alive">仍在运行：%1$s</string>
+</resources>

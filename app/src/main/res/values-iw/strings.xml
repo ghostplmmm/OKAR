@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">נוצר על ידי %1$s</string>
+    <string name="checking_root">בודק רוט...</string>
+    <string name="root_ok">רוט: תקין</string>
+    <string name="status_root_apps">רוט: תקין | אפליקציות: %1$d</string>
+    <string name="no_root">אין רוט</string>
+    <string name="ram_free">זיכרון RAM פנוי: %1$d%%</string>
+    <string name="loading">טוען...</string>
+    <string name="btn_kill">סגור את הנבחרות</string>
+    <string name="btn_select_all">בחר הכול</string>
+    <string name="btn_refresh">רענן רשימה</string>
+    <string name="btn_restore">שחזר רקע (נבחרות)</string>
+    <string name="btn_white_add">הוסף לרשימה הלבנה</string>
+    <string name="btn_white_remove">הסר מהרשימה הלבנה</string>
+    <string name="toggle_system">אפליקציות מערכת: %1$s</string>
+    <string name="toggle_running">רק פעילות: %1$s</string>
+    <string name="toggle_aggr">מצב אגרסיבי: %1$s</string>
+    <string name="toggle_white">הצג רשימה לבנה: %1$s (%2$d)</string>
+    <string name="yes">כן</string>
+    <string name="no">לא</string>
+    <string name="toast_root_denied">הרשאת רוט לא ניתנה. אפשר אותה ב-Magisk.</string>
+    <string name="toast_none_selected">לא נבחרו אפליקציות</string>
+    <string name="toast_leave_white">צא מהרשימה הלבנה כדי לסגור אפליקציות</string>
+    <string name="toast_white_removed">הוסרו מהרשימה הלבנה: %1$d</string>
+    <string name="toast_white_added">נוספו לרשימה הלבנה: %1$d</string>
+    <string name="toast_bg_restored">הרקע שוחזר: %1$d</string>
+    <string name="toast_no_root_kill">אין רוט: לא ניתן לסגור</string>
+    <string name="res_closed">נסגרו: %1$d</string>
+    <string name="res_closed_restarted">נסגרו: %1$d | הופעלו מחדש על ידי המערכת: %2$d</string>
+    <string name="res_ram">זיכרון RAM ששוחרר: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">זיכרון RAM ששוחרר: ~%1$d%%</string>
+    <string name="res_recents">אחרונות: הוסרו %1$d</string>
+    <string name="res_recents_fail">אחרונות: הוסרו %1$d | לא ניתן להסיר %2$d</string>
+    <string name="res_alive">עדיין פעילות: %1$s</string>
+</resources>

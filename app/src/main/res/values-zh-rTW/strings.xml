@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">作者：%1$s</string>
+    <string name="checking_root">正在檢查 root...</string>
+    <string name="root_ok">Root：正常</string>
+    <string name="status_root_apps">Root：正常 | 應用程式：%1$d</string>
+    <string name="no_root">無 root</string>
+    <string name="ram_free">可用記憶體：%1$d%%</string>
+    <string name="loading">載入中...</string>
+    <string name="btn_kill">關閉所選</string>
+    <string name="btn_select_all">全選</string>
+    <string name="btn_refresh">重新整理清單</string>
+    <string name="btn_restore">還原背景（所選）</string>
+    <string name="btn_white_add">加入白名單</string>
+    <string name="btn_white_remove">移出白名單</string>
+    <string name="toggle_system">系統應用程式：%1$s</string>
+    <string name="toggle_running">僅執行中：%1$s</string>
+    <string name="toggle_aggr">積極模式：%1$s</string>
+    <string name="toggle_white">檢視白名單：%1$s（%2$d）</string>
+    <string name="yes">是</string>
+    <string name="no">否</string>
+    <string name="toast_root_denied">未取得 root 權限，請在 Magisk 中允許。</string>
+    <string name="toast_none_selected">未選取應用程式</string>
+    <string name="toast_leave_white">請先離開白名單再關閉應用程式</string>
+    <string name="toast_white_removed">已移出白名單：%1$d</string>
+    <string name="toast_white_added">已加入白名單：%1$d</string>
+    <string name="toast_bg_restored">已還原背景：%1$d</string>
+    <string name="toast_no_root_kill">無 root：無法關閉</string>
+    <string name="res_closed">已關閉：%1$d</string>
+    <string name="res_closed_restarted">已關閉：%1$d | 被系統重新啟動：%2$d</string>
+    <string name="res_ram">釋放記憶體：+%1$.1f%%（%2$d MB）</string>
+    <string name="res_ram_zero">釋放記憶體：~%1$d%%</string>
+    <string name="res_recents">最近工作：已移除 %1$d</string>
+    <string name="res_recents_fail">最近工作：已移除 %1$d | %2$d 個無法移除</string>
+    <string name="res_alive">仍在執行：%1$s</string>
+</resources>

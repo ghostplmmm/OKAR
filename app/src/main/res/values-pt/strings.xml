@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Criado por %1$s</string>
+    <string name="checking_root">Verificando root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Apps: %1$d</string>
+    <string name="no_root">Sem root</string>
+    <string name="ram_free">RAM livre: %1$d%%</string>
+    <string name="loading">Carregando...</string>
+    <string name="btn_kill">Fechar selecionados</string>
+    <string name="btn_select_all">Selecionar tudo</string>
+    <string name="btn_refresh">Atualizar lista</string>
+    <string name="btn_restore">Restaurar 2º plano (sel.)</string>
+    <string name="btn_white_add">Adicionar à lista branca</string>
+    <string name="btn_white_remove">Remover da lista branca</string>
+    <string name="toggle_system">Apps do sistema: %1$s</string>
+    <string name="toggle_running">Somente em execução: %1$s</string>
+    <string name="toggle_aggr">Modo agressivo: %1$s</string>
+    <string name="toggle_white">Ver lista branca: %1$s (%2$d)</string>
+    <string name="yes">SIM</string>
+    <string name="no">NÃO</string>
+    <string name="toast_root_denied">Root não concedido. Permita no Magisk.</string>
+    <string name="toast_none_selected">Nenhum app selecionado</string>
+    <string name="toast_leave_white">Saia da lista branca para fechar apps</string>
+    <string name="toast_white_removed">Removidos da lista branca: %1$d</string>
+    <string name="toast_white_added">Adicionados à lista branca: %1$d</string>
+    <string name="toast_bg_restored">Segundo plano restaurado: %1$d</string>
+    <string name="toast_no_root_kill">Sem root: não é possível fechar</string>
+    <string name="res_closed">Fechados: %1$d</string>
+    <string name="res_closed_restarted">Fechados: %1$d | Reiniciados pelo sistema: %2$d</string>
+    <string name="res_ram">RAM liberada: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM liberada: ~%1$d%%</string>
+    <string name="res_recents">Recentes: %1$d removidos</string>
+    <string name="res_recents_fail">Recentes: %1$d removidos | %2$d não puderam ser removidos</string>
+    <string name="res_alive">Ainda ativos: %1$s</string>
+</resources>

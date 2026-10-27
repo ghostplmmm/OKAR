@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Автор: %1$s</string>
+    <string name="checking_root">Перевірка root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Застосунків: %1$d</string>
+    <string name="no_root">Немає root</string>
+    <string name="ram_free">Вільно ОЗП: %1$d%%</string>
+    <string name="loading">Завантаження...</string>
+    <string name="btn_kill">Закрити вибрані</string>
+    <string name="btn_select_all">Вибрати все</string>
+    <string name="btn_refresh">Оновити список</string>
+    <string name="btn_restore">Відновити фон (вибр.)</string>
+    <string name="btn_white_add">До білого списку</string>
+    <string name="btn_white_remove">Прибрати з білого списку</string>
+    <string name="toggle_system">Системні: %1$s</string>
+    <string name="toggle_running">Лише запущені: %1$s</string>
+    <string name="toggle_aggr">Агресивний режим: %1$s</string>
+    <string name="toggle_white">Білий список: %1$s (%2$d)</string>
+    <string name="yes">ТАК</string>
+    <string name="no">НІ</string>
+    <string name="toast_root_denied">Root не отримано. Дозвольте в Magisk.</string>
+    <string name="toast_none_selected">Застосунки не вибрано</string>
+    <string name="toast_leave_white">Вийдіть із білого списку, щоб закривати</string>
+    <string name="toast_white_removed">Прибрано з білого списку: %1$d</string>
+    <string name="toast_white_added">Додано до білого списку: %1$d</string>
+    <string name="toast_bg_restored">Фон відновлено: %1$d</string>
+    <string name="toast_no_root_kill">Немає root: закрити неможливо</string>
+    <string name="res_closed">Закрито: %1$d</string>
+    <string name="res_closed_restarted">Закрито: %1$d | Перезапущено системою: %2$d</string>
+    <string name="res_ram">ОЗП звільнено: +%1$.1f%% (%2$d МБ)</string>
+    <string name="res_ram_zero">ОЗП звільнено: ~%1$d%%</string>
+    <string name="res_recents">Нещодавні: прибрано %1$d</string>
+    <string name="res_recents_fail">Нещодавні: прибрано %1$d | не вдалося прибрати %2$d</string>
+    <string name="res_alive">Досі працюють: %1$s</string>
+</resources>

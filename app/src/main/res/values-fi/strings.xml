@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Tekijä: %1$s</string>
+    <string name="checking_root">Tarkistetaan root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Sovelluksia: %1$d</string>
+    <string name="no_root">Ei rootia</string>
+    <string name="ram_free">Vapaa RAM: %1$d%%</string>
+    <string name="loading">Ladataan...</string>
+    <string name="btn_kill">Sulje valitut</string>
+    <string name="btn_select_all">Valitse kaikki</string>
+    <string name="btn_refresh">Päivitä lista</string>
+    <string name="btn_restore">Palauta tausta (valitut)</string>
+    <string name="btn_white_add">Lisää sallittujen listalle</string>
+    <string name="btn_white_remove">Poista sallittujen listalta</string>
+    <string name="toggle_system">Järjestelmäsovellukset: %1$s</string>
+    <string name="toggle_running">Vain käynnissä olevat: %1$s</string>
+    <string name="toggle_aggr">Aggressiivinen tila: %1$s</string>
+    <string name="toggle_white">Näytä sallittujen lista: %1$s (%2$d)</string>
+    <string name="yes">KYLLÄ</string>
+    <string name="no">EI</string>
+    <string name="toast_root_denied">Root-oikeutta ei myönnetty. Salli se Magiskissa.</string>
+    <string name="toast_none_selected">Ei valittuja sovelluksia</string>
+    <string name="toast_leave_white">Poistu sallittujen listalta sulkeaksesi sovelluksia</string>
+    <string name="toast_white_removed">Poistettu sallittujen listalta: %1$d</string>
+    <string name="toast_white_added">Lisätty sallittujen listalle: %1$d</string>
+    <string name="toast_bg_restored">Tausta palautettu: %1$d</string>
+    <string name="toast_no_root_kill">Ei rootia: sulkeminen ei onnistu</string>
+    <string name="res_closed">Suljettu: %1$d</string>
+    <string name="res_closed_restarted">Suljettu: %1$d | Järjestelmä käynnisti uudelleen: %2$d</string>
+    <string name="res_ram">RAM vapautettu: +%1$.1f%% (%2$d Mt)</string>
+    <string name="res_ram_zero">RAM vapautettu: ~%1$d%%</string>
+    <string name="res_recents">Viimeisimmät: %1$d poistettu</string>
+    <string name="res_recents_fail">Viimeisimmät: %1$d poistettu | %2$d ei voitu poistaa</string>
+    <string name="res_alive">Yhä käynnissä: %1$s</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">তৈরি করেছেন %1$s</string>
+    <string name="checking_root">রুট যাচাই হচ্ছে...</string>
+    <string name="root_ok">রুট: ঠিক আছে</string>
+    <string name="status_root_apps">রুট: ঠিক আছে | অ্যাপ: %1$d</string>
+    <string name="no_root">রুট নেই</string>
+    <string name="ram_free">ফাঁকা RAM: %1$d%%</string>
+    <string name="loading">লোড হচ্ছে...</string>
+    <string name="btn_kill">নির্বাচিতগুলো বন্ধ করুন</string>
+    <string name="btn_select_all">সব নির্বাচন করুন</string>
+    <string name="btn_refresh">তালিকা রিফ্রেশ করুন</string>
+    <string name="btn_restore">ব্যাকগ্রাউন্ড পুনরুদ্ধার (নির্বাচিত)</string>
+    <string name="btn_white_add">হোয়াইটলিস্টে যোগ করুন</string>
+    <string name="btn_white_remove">হোয়াইটলিস্ট থেকে সরান</string>
+    <string name="toggle_system">সিস্টেম অ্যাপ: %1$s</string>
+    <string name="toggle_running">শুধু চলমান: %1$s</string>
+    <string name="toggle_aggr">আক্রমণাত্মক মোড: %1$s</string>
+    <string name="toggle_white">হোয়াইটলিস্ট দেখুন: %1$s (%2$d)</string>
+    <string name="yes">হ্যাঁ</string>
+    <string name="no">না</string>
+    <string name="toast_root_denied">রুট পাওয়া যায়নি। Magisk-এ অনুমতি দিন।</string>
+    <string name="toast_none_selected">কোনো অ্যাপ নির্বাচিত নয়</string>
+    <string name="toast_leave_white">অ্যাপ বন্ধ করতে হোয়াইটলিস্ট থেকে বের হন</string>
+    <string name="toast_white_removed">হোয়াইটলিস্ট থেকে সরানো হয়েছে: %1$d</string>
+    <string name="toast_white_added">হোয়াইটলিস্টে যোগ হয়েছে: %1$d</string>
+    <string name="toast_bg_restored">ব্যাকগ্রাউন্ড পুনরুদ্ধার: %1$d</string>
+    <string name="toast_no_root_kill">রুট নেই: বন্ধ করা যাবে না</string>
+    <string name="res_closed">বন্ধ হয়েছে: %1$d</string>
+    <string name="res_closed_restarted">বন্ধ হয়েছে: %1$d | সিস্টেম আবার চালু করেছে: %2$d</string>
+    <string name="res_ram">মুক্ত RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">মুক্ত RAM: ~%1$d%%</string>
+    <string name="res_recents">সাম্প্রতিক: %1$d সরানো হয়েছে</string>
+    <string name="res_recents_fail">সাম্প্রতিক: %1$d সরানো হয়েছে | %2$d সরানো যায়নি</string>
+    <string name="res_alive">এখনো চলছে: %1$s</string>
+</resources>

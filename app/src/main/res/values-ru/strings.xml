@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Автор: %1$s</string>
+    <string name="checking_root">Проверка root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Приложений: %1$d</string>
+    <string name="no_root">Нет root</string>
+    <string name="ram_free">Свободно ОЗУ: %1$d%%</string>
+    <string name="loading">Загрузка...</string>
+    <string name="btn_kill">Закрыть выбранные</string>
+    <string name="btn_select_all">Выбрать все</string>
+    <string name="btn_refresh">Обновить список</string>
+    <string name="btn_restore">Восстановить фон (выбр.)</string>
+    <string name="btn_white_add">В белый список</string>
+    <string name="btn_white_remove">Убрать из белого списка</string>
+    <string name="toggle_system">Системные: %1$s</string>
+    <string name="toggle_running">Только запущенные: %1$s</string>
+    <string name="toggle_aggr">Агрессивный режим: %1$s</string>
+    <string name="toggle_white">Белый список: %1$s (%2$d)</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕТ</string>
+    <string name="toast_root_denied">Root не получен. Разрешите в Magisk.</string>
+    <string name="toast_none_selected">Приложения не выбраны</string>
+    <string name="toast_leave_white">Выйдите из белого списка, чтобы закрывать</string>
+    <string name="toast_white_removed">Убрано из белого списка: %1$d</string>
+    <string name="toast_white_added">Добавлено в белый список: %1$d</string>
+    <string name="toast_bg_restored">Фон восстановлен: %1$d</string>
+    <string name="toast_no_root_kill">Нет root: закрыть нельзя</string>
+    <string name="res_closed">Закрыто: %1$d</string>
+    <string name="res_closed_restarted">Закрыто: %1$d | Перезапущено системой: %2$d</string>
+    <string name="res_ram">ОЗУ освобождено: +%1$.1f%% (%2$d МБ)</string>
+    <string name="res_ram_zero">ОЗУ освобождено: ~%1$d%%</string>
+    <string name="res_recents">Недавние: убрано %1$d</string>
+    <string name="res_recents_fail">Недавние: убрано %1$d | не удалось убрать %2$d</string>
+    <string name="res_alive">Всё ещё работают: %1$s</string>
+</resources>

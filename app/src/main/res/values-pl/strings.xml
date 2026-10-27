@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Autor: %1$s</string>
+    <string name="checking_root">Sprawdzanie roota...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Aplikacje: %1$d</string>
+    <string name="no_root">Brak roota</string>
+    <string name="ram_free">Wolna RAM: %1$d%%</string>
+    <string name="loading">Ładowanie...</string>
+    <string name="btn_kill">Zamknij zaznaczone</string>
+    <string name="btn_select_all">Zaznacz wszystko</string>
+    <string name="btn_refresh">Odśwież listę</string>
+    <string name="btn_restore">Przywróć tło (zazn.)</string>
+    <string name="btn_white_add">Dodaj do białej listy</string>
+    <string name="btn_white_remove">Usuń z białej listy</string>
+    <string name="toggle_system">Aplikacje systemowe: %1$s</string>
+    <string name="toggle_running">Tylko uruchomione: %1$s</string>
+    <string name="toggle_aggr">Tryb agresywny: %1$s</string>
+    <string name="toggle_white">Pokaż białą listę: %1$s (%2$d)</string>
+    <string name="yes">TAK</string>
+    <string name="no">NIE</string>
+    <string name="toast_root_denied">Nie przyznano roota. Zezwól w Magisk.</string>
+    <string name="toast_none_selected">Nie wybrano aplikacji</string>
+    <string name="toast_leave_white">Wyjdź z białej listy, aby zamykać aplikacje</string>
+    <string name="toast_white_removed">Usunięto z białej listy: %1$d</string>
+    <string name="toast_white_added">Dodano do białej listy: %1$d</string>
+    <string name="toast_bg_restored">Przywrócono tło: %1$d</string>
+    <string name="toast_no_root_kill">Brak roota: nie można zamknąć</string>
+    <string name="res_closed">Zamknięto: %1$d</string>
+    <string name="res_closed_restarted">Zamknięto: %1$d | Uruchomione ponownie przez system: %2$d</string>
+    <string name="res_ram">Zwolniono RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">Zwolniono RAM: ~%1$d%%</string>
+    <string name="res_recents">Ostatnie: usunięto %1$d</string>
+    <string name="res_recents_fail">Ostatnie: usunięto %1$d | nie udało się usunąć %2$d</string>
+    <string name="res_alive">Nadal działają: %1$s</string>
+</resources>

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">من تطوير %1$s</string>
+    <string name="checking_root">جارٍ التحقق من الروت...</string>
+    <string name="root_ok">الروت: جاهز</string>
+    <string name="status_root_apps">الروت: جاهز | التطبيقات: %1$d</string>
+    <string name="no_root">بدون روت</string>
+    <string name="ram_free">الذاكرة الحرة: %1$d%%</string>
+    <string name="loading">جارٍ التحميل...</string>
+    <string name="btn_kill">إغلاق المحدد</string>
+    <string name="btn_select_all">تحديد الكل</string>
+    <string name="btn_refresh">تحديث القائمة</string>
+    <string name="btn_restore">استعادة الخلفية (المحدد)</string>
+    <string name="btn_white_add">إضافة إلى القائمة البيضاء</string>
+    <string name="btn_white_remove">إزالة من القائمة البيضاء</string>
+    <string name="toggle_system">تطبيقات النظام: %1$s</string>
+    <string name="toggle_running">العاملة فقط: %1$s</string>
+    <string name="toggle_aggr">الوضع القوي: %1$s</string>
+    <string name="toggle_white">عرض القائمة البيضاء: %1$s (%2$d)</string>
+    <string name="yes">نعم</string>
+    <string name="no">لا</string>
+    <string name="toast_root_denied">لم يتم منح الروت. اسمح به في Magisk.</string>
+    <string name="toast_none_selected">لم يتم تحديد تطبيقات</string>
+    <string name="toast_leave_white">اخرج من القائمة البيضاء لإغلاق التطبيقات</string>
+    <string name="toast_white_removed">أُزيلت من القائمة البيضاء: %1$d</string>
+    <string name="toast_white_added">أُضيفت إلى القائمة البيضاء: %1$d</string>
+    <string name="toast_bg_restored">تمت استعادة الخلفية: %1$d</string>
+    <string name="toast_no_root_kill">بدون روت: لا يمكن الإغلاق</string>
+    <string name="res_closed">تم الإغلاق: %1$d</string>
+    <string name="res_closed_restarted">تم الإغلاق: %1$d | أعاد النظام تشغيل: %2$d</string>
+    <string name="res_ram">الذاكرة المحررة: +%1$.1f%% (%2$d م.ب)</string>
+    <string name="res_ram_zero">الذاكرة المحررة: ~%1$d%%</string>
+    <string name="res_recents">الأخيرة: أُزيل %1$d</string>
+    <string name="res_recents_fail">الأخيرة: أُزيل %1$d | تعذّرت إزالة %2$d</string>
+    <string name="res_alive">ما زالت تعمل: %1$s</string>
+</resources>

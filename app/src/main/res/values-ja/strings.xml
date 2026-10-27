@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">作成者：%1$s</string>
+    <string name="checking_root">root を確認中...</string>
+    <string name="root_ok">Root：OK</string>
+    <string name="status_root_apps">Root：OK | アプリ：%1$d</string>
+    <string name="no_root">root なし</string>
+    <string name="ram_free">空きRAM：%1$d%%</string>
+    <string name="loading">読み込み中...</string>
+    <string name="btn_kill">選択を終了</string>
+    <string name="btn_select_all">すべて選択</string>
+    <string name="btn_refresh">リストを更新</string>
+    <string name="btn_restore">バックグラウンド復元（選択）</string>
+    <string name="btn_white_add">ホワイトリストに追加</string>
+    <string name="btn_white_remove">ホワイトリストから削除</string>
+    <string name="toggle_system">システムアプリ：%1$s</string>
+    <string name="toggle_running">実行中のみ：%1$s</string>
+    <string name="toggle_aggr">強力モード：%1$s</string>
+    <string name="toggle_white">ホワイトリスト表示：%1$s（%2$d）</string>
+    <string name="yes">はい</string>
+    <string name="no">いいえ</string>
+    <string name="toast_root_denied">root 権限が付与されていません。Magisk で許可してください。</string>
+    <string name="toast_none_selected">アプリが選択されていません</string>
+    <string name="toast_leave_white">アプリを終了するにはホワイトリスト表示を解除してください</string>
+    <string name="toast_white_removed">ホワイトリストから削除：%1$d</string>
+    <string name="toast_white_added">ホワイトリストに追加：%1$d</string>
+    <string name="toast_bg_restored">バックグラウンドを復元：%1$d</string>
+    <string name="toast_no_root_kill">root なし：終了できません</string>
+    <string name="res_closed">終了：%1$d</string>
+    <string name="res_closed_restarted">終了：%1$d | システムが再起動：%2$d</string>
+    <string name="res_ram">解放したRAM：+%1$.1f%%（%2$d MB）</string>
+    <string name="res_ram_zero">解放したRAM：~%1$d%%</string>
+    <string name="res_recents">最近：%1$d 件削除</string>
+    <string name="res_recents_fail">最近：%1$d 件削除 | %2$d 件は削除不可</string>
+    <string name="res_alive">まだ実行中：%1$s</string>
+</resources>

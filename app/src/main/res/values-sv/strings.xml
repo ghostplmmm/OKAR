@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Skapad av %1$s</string>
+    <string name="checking_root">Kontrollerar root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Appar: %1$d</string>
+    <string name="no_root">Ingen root</string>
+    <string name="ram_free">Ledigt RAM: %1$d%%</string>
+    <string name="loading">Läser in...</string>
+    <string name="btn_kill">Stäng valda</string>
+    <string name="btn_select_all">Markera alla</string>
+    <string name="btn_refresh">Uppdatera listan</string>
+    <string name="btn_restore">Återställ bakgrund (valda)</string>
+    <string name="btn_white_add">Lägg till i vitlistan</string>
+    <string name="btn_white_remove">Ta bort från vitlistan</string>
+    <string name="toggle_system">Systemappar: %1$s</string>
+    <string name="toggle_running">Endast körande: %1$s</string>
+    <string name="toggle_aggr">Aggressivt läge: %1$s</string>
+    <string name="toggle_white">Visa vitlista: %1$s (%2$d)</string>
+    <string name="yes">JA</string>
+    <string name="no">NEJ</string>
+    <string name="toast_root_denied">Root beviljades inte. Tillåt i Magisk.</string>
+    <string name="toast_none_selected">Inga appar valda</string>
+    <string name="toast_leave_white">Lämna vitlistan för att stänga appar</string>
+    <string name="toast_white_removed">Borttagna från vitlistan: %1$d</string>
+    <string name="toast_white_added">Tillagda i vitlistan: %1$d</string>
+    <string name="toast_bg_restored">Bakgrund återställd: %1$d</string>
+    <string name="toast_no_root_kill">Ingen root: kan inte stänga</string>
+    <string name="res_closed">Stängda: %1$d</string>
+    <string name="res_closed_restarted">Stängda: %1$d | Startade om av systemet: %2$d</string>
+    <string name="res_ram">RAM frigjort: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM frigjort: ~%1$d%%</string>
+    <string name="res_recents">Senaste: %1$d borttagna</string>
+    <string name="res_recents_fail">Senaste: %1$d borttagna | %2$d kunde inte tas bort</string>
+    <string name="res_alive">Körs fortfarande: %1$s</string>
+</resources>

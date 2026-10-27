@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">สร้างโดย %1$s</string>
+    <string name="checking_root">กำลังตรวจสอบรูท...</string>
+    <string name="root_ok">รูท: พร้อม</string>
+    <string name="status_root_apps">รูท: พร้อม | แอป: %1$d</string>
+    <string name="no_root">ไม่มีรูท</string>
+    <string name="ram_free">RAM ว่าง: %1$d%%</string>
+    <string name="loading">กำลังโหลด...</string>
+    <string name="btn_kill">ปิดที่เลือก</string>
+    <string name="btn_select_all">เลือกทั้งหมด</string>
+    <string name="btn_refresh">รีเฟรชรายการ</string>
+    <string name="btn_restore">คืนค่าเบื้องหลัง (ที่เลือก)</string>
+    <string name="btn_white_add">เพิ่มในรายการอนุญาต</string>
+    <string name="btn_white_remove">นำออกจากรายการอนุญาต</string>
+    <string name="toggle_system">แอประบบ: %1$s</string>
+    <string name="toggle_running">เฉพาะที่ทำงานอยู่: %1$s</string>
+    <string name="toggle_aggr">โหมดรุนแรง: %1$s</string>
+    <string name="toggle_white">ดูรายการอนุญาต: %1$s (%2$d)</string>
+    <string name="yes">ใช่</string>
+    <string name="no">ไม่</string>
+    <string name="toast_root_denied">ไม่ได้รับสิทธิ์รูท โปรดอนุญาตใน Magisk</string>
+    <string name="toast_none_selected">ไม่ได้เลือกแอป</string>
+    <string name="toast_leave_white">ออกจากรายการอนุญาตเพื่อปิดแอป</string>
+    <string name="toast_white_removed">นำออกจากรายการอนุญาต: %1$d</string>
+    <string name="toast_white_added">เพิ่มในรายการอนุญาต: %1$d</string>
+    <string name="toast_bg_restored">คืนค่าเบื้องหลังแล้ว: %1$d</string>
+    <string name="toast_no_root_kill">ไม่มีรูท: ปิดไม่ได้</string>
+    <string name="res_closed">ปิดแล้ว: %1$d</string>
+    <string name="res_closed_restarted">ปิดแล้ว: %1$d | ระบบรีสตาร์ท: %2$d</string>
+    <string name="res_ram">RAM ที่คืนมา: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM ที่คืนมา: ~%1$d%%</string>
+    <string name="res_recents">ล่าสุด: นำออก %1$d</string>
+    <string name="res_recents_fail">ล่าสุด: นำออก %1$d | นำออกไม่ได้ %2$d</string>
+    <string name="res_alive">ยังทำงานอยู่: %1$s</string>
+</resources>

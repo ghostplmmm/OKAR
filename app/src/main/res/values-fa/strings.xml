@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">ساخته‌شده توسط %1$s</string>
+    <string name="checking_root">در حال بررسی روت...</string>
+    <string name="root_ok">روت: آماده</string>
+    <string name="status_root_apps">روت: آماده | برنامه‌ها: %1$d</string>
+    <string name="no_root">بدون روت</string>
+    <string name="ram_free">رم آزاد: %1$d%%</string>
+    <string name="loading">در حال بارگذاری...</string>
+    <string name="btn_kill">بستن انتخاب‌شده‌ها</string>
+    <string name="btn_select_all">انتخاب همه</string>
+    <string name="btn_refresh">به‌روزرسانی فهرست</string>
+    <string name="btn_restore">بازیابی پس‌زمینه (انتخابی)</string>
+    <string name="btn_white_add">افزودن به فهرست سفید</string>
+    <string name="btn_white_remove">حذف از فهرست سفید</string>
+    <string name="toggle_system">برنامه‌های سیستمی: %1$s</string>
+    <string name="toggle_running">فقط در حال اجرا: %1$s</string>
+    <string name="toggle_aggr">حالت تهاجمی: %1$s</string>
+    <string name="toggle_white">نمایش فهرست سفید: %1$s (%2$d)</string>
+    <string name="yes">بله</string>
+    <string name="no">خیر</string>
+    <string name="toast_root_denied">دسترسی روت داده نشد. آن را در Magisk مجاز کنید.</string>
+    <string name="toast_none_selected">برنامه‌ای انتخاب نشده</string>
+    <string name="toast_leave_white">برای بستن برنامه‌ها از فهرست سفید خارج شوید</string>
+    <string name="toast_white_removed">از فهرست سفید حذف شد: %1$d</string>
+    <string name="toast_white_added">به فهرست سفید افزوده شد: %1$d</string>
+    <string name="toast_bg_restored">پس‌زمینه بازیابی شد: %1$d</string>
+    <string name="toast_no_root_kill">بدون روت: امکان بستن نیست</string>
+    <string name="res_closed">بسته شد: %1$d</string>
+    <string name="res_closed_restarted">بسته شد: %1$d | راه‌اندازی مجدد توسط سیستم: %2$d</string>
+    <string name="res_ram">رم آزادشده: +%1$.1f%% (%2$d مگابایت)</string>
+    <string name="res_ram_zero">رم آزادشده: ~%1$d%%</string>
+    <string name="res_recents">اخیر: %1$d حذف شد</string>
+    <string name="res_recents_fail">اخیر: %1$d حذف شد | %2$d قابل حذف نبود</string>
+    <string name="res_alive">هنوز در حال اجرا: %1$s</string>
+</resources>

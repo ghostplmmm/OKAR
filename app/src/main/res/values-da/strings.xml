@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Lavet af %1$s</string>
+    <string name="checking_root">Tjekker root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Apps: %1$d</string>
+    <string name="no_root">Ingen root</string>
+    <string name="ram_free">Ledig RAM: %1$d%%</string>
+    <string name="loading">Indlæser...</string>
+    <string name="btn_kill">Luk valgte</string>
+    <string name="btn_select_all">Vælg alle</string>
+    <string name="btn_refresh">Opdater liste</string>
+    <string name="btn_restore">Gendan baggrund (valgte)</string>
+    <string name="btn_white_add">Føj til hvidliste</string>
+    <string name="btn_white_remove">Fjern fra hvidliste</string>
+    <string name="toggle_system">Systemapps: %1$s</string>
+    <string name="toggle_running">Kun kørende: %1$s</string>
+    <string name="toggle_aggr">Aggressiv tilstand: %1$s</string>
+    <string name="toggle_white">Vis hvidliste: %1$s (%2$d)</string>
+    <string name="yes">JA</string>
+    <string name="no">NEJ</string>
+    <string name="toast_root_denied">Root blev ikke givet. Tillad det i Magisk.</string>
+    <string name="toast_none_selected">Ingen apps valgt</string>
+    <string name="toast_leave_white">Forlad hvidlisten for at lukke apps</string>
+    <string name="toast_white_removed">Fjernet fra hvidlisten: %1$d</string>
+    <string name="toast_white_added">Føjet til hvidlisten: %1$d</string>
+    <string name="toast_bg_restored">Baggrund gendannet: %1$d</string>
+    <string name="toast_no_root_kill">Ingen root: kan ikke lukke</string>
+    <string name="res_closed">Lukket: %1$d</string>
+    <string name="res_closed_restarted">Lukket: %1$d | Genstartet af systemet: %2$d</string>
+    <string name="res_ram">RAM frigjort: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM frigjort: ~%1$d%%</string>
+    <string name="res_recents">Seneste: %1$d fjernet</string>
+    <string name="res_recents_fail">Seneste: %1$d fjernet | %2$d kunne ikke fjernes</string>
+    <string name="res_alive">Kører stadig: %1$s</string>
+</resources>

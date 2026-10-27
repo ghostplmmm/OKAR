@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Създадено от %1$s</string>
+    <string name="checking_root">Проверка на root...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Приложения: %1$d</string>
+    <string name="no_root">Няма root</string>
+    <string name="ram_free">Свободна RAM: %1$d%%</string>
+    <string name="loading">Зареждане...</string>
+    <string name="btn_kill">Затвори избраните</string>
+    <string name="btn_select_all">Избери всички</string>
+    <string name="btn_refresh">Обнови списъка</string>
+    <string name="btn_restore">Възстанови фона (избр.)</string>
+    <string name="btn_white_add">Добави в белия списък</string>
+    <string name="btn_white_remove">Премахни от белия списък</string>
+    <string name="toggle_system">Системни приложения: %1$s</string>
+    <string name="toggle_running">Само работещи: %1$s</string>
+    <string name="toggle_aggr">Агресивен режим: %1$s</string>
+    <string name="toggle_white">Бял списък: %1$s (%2$d)</string>
+    <string name="yes">ДА</string>
+    <string name="no">НЕ</string>
+    <string name="toast_root_denied">Root не е предоставен. Разрешете го в Magisk.</string>
+    <string name="toast_none_selected">Няма избрани приложения</string>
+    <string name="toast_leave_white">Излезте от белия списък, за да затваряте</string>
+    <string name="toast_white_removed">Премахнати от белия списък: %1$d</string>
+    <string name="toast_white_added">Добавени в белия списък: %1$d</string>
+    <string name="toast_bg_restored">Фонът е възстановен: %1$d</string>
+    <string name="toast_no_root_kill">Няма root: не може да се затвори</string>
+    <string name="res_closed">Затворени: %1$d</string>
+    <string name="res_closed_restarted">Затворени: %1$d | Рестартирани от системата: %2$d</string>
+    <string name="res_ram">Освободена RAM: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">Освободена RAM: ~%1$d%%</string>
+    <string name="res_recents">Скорошни: премахнати %1$d</string>
+    <string name="res_recents_fail">Скорошни: премахнати %1$d | не могат да се премахнат %2$d</string>
+    <string name="res_alive">Още работят: %1$s</string>
+</resources>

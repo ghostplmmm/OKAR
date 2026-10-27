@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="created_by">Erstellt von %1$s</string>
+    <string name="checking_root">Root wird geprüft...</string>
+    <string name="root_ok">Root: OK</string>
+    <string name="status_root_apps">Root: OK | Apps: %1$d</string>
+    <string name="no_root">Kein Root</string>
+    <string name="ram_free">Freier RAM: %1$d%%</string>
+    <string name="loading">Wird geladen...</string>
+    <string name="btn_kill">Auswahl schließen</string>
+    <string name="btn_select_all">Alle auswählen</string>
+    <string name="btn_refresh">Liste aktualisieren</string>
+    <string name="btn_restore">Hintergrund wiederherst. (Ausw.)</string>
+    <string name="btn_white_add">Zur Whitelist hinzufügen</string>
+    <string name="btn_white_remove">Von Whitelist entfernen</string>
+    <string name="toggle_system">System-Apps: %1$s</string>
+    <string name="toggle_running">Nur laufende: %1$s</string>
+    <string name="toggle_aggr">Aggressiver Modus: %1$s</string>
+    <string name="toggle_white">Whitelist anzeigen: %1$s (%2$d)</string>
+    <string name="yes">JA</string>
+    <string name="no">NEIN</string>
+    <string name="toast_root_denied">Root wurde nicht gewährt. Erlaube es in Magisk.</string>
+    <string name="toast_none_selected">Keine Apps ausgewählt</string>
+    <string name="toast_leave_white">Whitelist verlassen, um Apps zu schließen</string>
+    <string name="toast_white_removed">Von Whitelist entfernt: %1$d</string>
+    <string name="toast_white_added">Zur Whitelist hinzugefügt: %1$d</string>
+    <string name="toast_bg_restored">Hintergrund wiederhergestellt: %1$d</string>
+    <string name="toast_no_root_kill">Kein Root: Schließen nicht möglich</string>
+    <string name="res_closed">Geschlossen: %1$d</string>
+    <string name="res_closed_restarted">Geschlossen: %1$d | Vom System neu gestartet: %2$d</string>
+    <string name="res_ram">RAM freigegeben: +%1$.1f%% (%2$d MB)</string>
+    <string name="res_ram_zero">RAM freigegeben: ~%1$d%%</string>
+    <string name="res_recents">Zuletzt: %1$d entfernt</string>
+    <string name="res_recents_fail">Zuletzt: %1$d entfernt | %2$d nicht entfernbar</string>
+    <string name="res_alive">Laufen noch: %1$s</string>
+</resources>
